@@ -7,7 +7,7 @@
 
 ## 🔧 About Me
 
-B.Tech Mechanical Engineering graduate (GIET, BPUT – CGPA 7.5) with a Diploma in Mechanical Engineering and **1 year of hands-on industry experience** at **Force Motors Ltd. (Mercedes-Benz India)** in Pune.
+B.Tech Mechanical Engineering graduate (GIET, BPUT – CGPA 7.5) with a Diploma in Mechanical Engineering and **1 year of hands-on industry experience** at **Force Motors Ltd.** in Pune.
 
 I specialize in production operations, preventive maintenance, and AutoCAD mechanical design. I'm passionate about improving manufacturing efficiency and ensuring quality in high-volume production environments.
 
@@ -28,7 +28,7 @@ I specialize in production operations, preventive maintenance, and AutoCAD mecha
 
 ## 💼 Work Experience
 
-**Trainee Technician** — Force Motors Ltd. (Mercedes-Benz India), Chakan, Pune
+**Trainee Technician** — Force Motors Ltd., Chakan, Pune
 *Dec 2022 – Nov 2023*
 
 - ⚙️ Executed assembly of 50+ components/shift in a high-volume production line
