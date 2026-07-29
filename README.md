@@ -7,7 +7,7 @@
 
 ## 🔧 About Me
 
-B.Tech Mechanical Engineering graduate (GIET, BPUT – CGPA 7.5) with a Diploma in Mechanical Engineering and **1 year of hands-on industry experience** at **Force Motors Ltd.** in Pune.
+B.Tech Mechanical Engineering graduate (GIET, BPUT – CGPA 7.72) with a Diploma in Mechanical Engineering and **1 year of hands-on industry experience** at **Force Motors Ltd.** in Pune.
 
 I specialize in production operations, preventive maintenance, and AutoCAD mechanical design. I'm passionate about improving manufacturing efficiency and ensuring quality in high-volume production environments.
 
