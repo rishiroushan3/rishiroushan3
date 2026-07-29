@@ -41,7 +41,7 @@ I specialize in production operations, preventive maintenance, and AutoCAD mecha
 
 ## 🎓 Education
 
-- **B.Tech, Mechanical Engineering** – GIET Khordha, BPUT (2026) – CGPA: 7.5
+- **B.Tech, Mechanical Engineering** – GIET Khordha, BPUT (2026) – CGPA: 7.72
 - **Diploma, Mechanical Engineering** – GIET Khordha, SCTE&VT (2022) – 78%
 - **Matriculation** – M D J Public School, CBSE (2019) – 64.6%
 
